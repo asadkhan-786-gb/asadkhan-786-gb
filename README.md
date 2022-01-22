@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Analysis with Python & Visualization
 - 💞️ I’m looking to collaborate on Data Analytics & Artificial Intelligence
 - 📫 You can reach me through my Linkedin Profile https://www.linkedin.com/in/muhammad-asad-khan-19b9a5202/ 
-- 💼 any freelance work? do reach email: m.asadkhan079@gmail.com :)
+- 💼 any freelance work? do reach my email: m.asadkhan079@gmail.com :)
 - 💬 ask me about anything, i am happy to help;
 
 <!---
