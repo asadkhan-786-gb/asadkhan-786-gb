@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Muhammad Asad
--  I'm Currently working on Software Development
+-  I'm Currently working as a Software Developer
 - 👀 I’m interested in Data Analytics & Artificial Intelligence with Python Programming
 - 🌱 I’m currently learning Data Analysis with Python & Visualization
 - 💞️ I’m looking to collaborate on Data Analytics & Artificial Intelligence
